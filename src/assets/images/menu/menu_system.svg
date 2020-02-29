@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>系统管理</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="91.3545291%" y1="111.215655%" x2="39.0215556%" y2="-15.4638986%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#C6C6C6" stop-opacity="0.129387455" offset="0%"></stop>
+            <stop stop-color="#545764" offset="49.949428%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="92.4657023%" y1="111.215655%" x2="38.7265709%" y2="-15.4638986%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="智慧宿管系统" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-96.000000, -486.000000)">
+            <g id="账号管理" transform="translate(96.000000, 486.000000)">
+                <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <g id="分组-4" transform="translate(1.000000, 0.000000)">
+                    <path d="M7,0 L14,4 L14,12 L7,16 L0,12 L0,4 L7,0 Z M7,2.76420266 L2.4,5.39277409 L2.4,10.6072259 L7,13.2357973 L11.6,10.6072259 L11.6,5.39277409 L7,2.76420266 Z" id="合并形状" fill="url(#linearGradient-1)"></path>
+                    <path d="M14,4 L14,12 L11.581,10.618 L11.6,10.6072259 L11.6,5.39277409 L11.582,5.382 L14,4 Z M0,4 L2.418,5.382 L2.4,5.39277409 L2.4,10.6072259 L2.419,10.618 L0,12 L0,4 Z" id="合并形状" fill="url(#linearGradient-2)"></path>
+                    <polygon id="路径" fill="url(#linearGradient-3)" points="9.6 9.44658084 9.6 6.55341916 7 5.06770487 4.4 6.55341916 4.4 9.44658084 7 10.9322951"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

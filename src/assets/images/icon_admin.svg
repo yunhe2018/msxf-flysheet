@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>我的大</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#83B5F6" offset="0%"></stop>
+            <stop stop-color="#4C7EE9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#BED8FA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#BED8FA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-4" cx="10" cy="10" r="4.16666667"></circle>
+        <filter x="-78.0%" y="-66.0%" width="256.0%" height="256.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.329411765   0 0 0 0 0.525490196   0 0 0 0 0.921568627  0 0 0 0.560093976 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="智慧宿管系统" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-206.000000, -381.000000)">
+            <g id="分组" transform="translate(206.000000, 381.000000)">
+                <circle id="椭圆形" fill="url(#linearGradient-1)" cx="10" cy="10" r="10"></circle>
+                <path d="M3.00073325,17.1421515 C4.48550335,14.8499826 7.06563547,13.3333333 10,13.3333333 C12.9343645,13.3333333 15.5144966,14.8499826 16.9992667,17.1421515 C15.1955797,18.9099771 12.7250841,20 10,20 C7.27491589,20 4.80442026,18.9099771 3.00073325,17.1421515 L3.00073325,17.1421515 Z" id="路径" fill="url(#linearGradient-2)" opacity="0.816220238"></path>
+                <g id="椭圆形" transform="translate(10.000000, 10.000000) scale(1, -1) translate(-10.000000, -10.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
